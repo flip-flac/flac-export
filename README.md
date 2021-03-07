@@ -1,9 +1,7 @@
 # Current mechanism to get flac files per provider
 
 ## [x] Tidal 
-
-[See example below]
-(docs/assets/FlacExporterExampleTidal.gif)
+![See example below](docs/assets/FlacExporterExampleTidal.gif)
 
 
 ## Spotify, Soundcloud, Itunes
